@@ -221,4 +221,6 @@ The table below shows what's included in each version:
 
 ![screenshot 2021-08-27 o 14 31 41](https://user-images.githubusercontent.com/43915675/131127858-9e4602a9-1aa7-48f4-9da7-ec362967ff77.png)
 ![screenshot 2021-08-27 o 14 15 53](https://user-images.githubusercontent.com/43915675/131127860-143fd009-1be3-497c-857c-5cf483735483.png)
+![screenshot 2021-08-27 o 14 39 15](https://user-images.githubusercontent.com/43915675/131128600-5f8c2571-7e4a-42f9-bc6d-c15538dba161.png)
+
 
