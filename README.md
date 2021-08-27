@@ -218,3 +218,7 @@ The table below shows what's included in each version:
 [katex]: https://khan.github.io/KaTeX/
 [mathjax]: https://www.mathjax.org/
 [tinyletter]: https://tinyletter.com/
+
+![screenshot 2021-08-27 o 14 31 41](https://user-images.githubusercontent.com/43915675/131127858-9e4602a9-1aa7-48f4-9da7-ec362967ff77.png)
+![screenshot 2021-08-27 o 14 15 53](https://user-images.githubusercontent.com/43915675/131127860-143fd009-1be3-497c-857c-5cf483735483.png)
+
